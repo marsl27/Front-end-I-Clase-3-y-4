@@ -1,0 +1,39 @@
+body{
+    font-family: "Lato", sans-serif;
+}
+
+
+.vinculos {
+    color:black;
+    font-family: "Times New Roman", serif;   
+    margin-left: -35px;
+    text-decoration: none;
+}
+
+header {
+    background-image:linear-gradient(to right, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(../img/lemon-pie.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-weight: bolder;
+    padding-top:200px;
+    text-align: justify;
+}
+
+header>p{
+    font-size: 22px;
+}
+h1{
+    font-size: 42px;
+}
+h3{
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+}
+
+#merengue{
+   
+    color: orangered;
+    font-weight: bolder;
+}
